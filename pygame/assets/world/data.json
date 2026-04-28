@@ -1,0 +1,155 @@
+{
+	"identifier": "Level_0",
+	"uniqueIdentifer": "7e28a1a2-21a0-11f1-9b46-9fed5f2721c2",
+	"x": 0,
+	"y": 0,
+	"width": 800,
+	"height": 640,
+	"bgColor": "#696A79",
+	"neighbourLevels": [],
+	"customFields" : {},
+	"layers": [
+		"Hlina.png",
+		"Wall.png",
+		"Struct.png",
+		"Plant.png"
+	],
+	"entities": {
+		"Coins": [
+			{
+				"id": "Vec",
+				"iid": "2a087210-21a0-11f1-9bd3-d70bc5cbd04c",
+				"layer": "Vec",
+				"x": 256,
+				"y": 160,
+				"width": 16,
+				"height": 16,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Vec",
+				"iid": "2b0e7060-21a0-11f1-9bd3-b90e71ffb0db",
+				"layer": "Vec",
+				"x": 160,
+				"y": 352,
+				"width": 16,
+				"height": 16,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Vec",
+				"iid": "2bd4a690-21a0-11f1-9bd3-756b589939d6",
+				"layer": "Vec",
+				"x": 544,
+				"y": 432,
+				"width": 16,
+				"height": 16,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Vec",
+				"iid": "2d100cc0-21a0-11f1-9bd3-436db70883f0",
+				"layer": "Vec",
+				"x": 544,
+				"y": 208,
+				"width": 16,
+				"height": 16,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Vec",
+				"iid": "2dadac50-21a0-11f1-9bd3-f7ccf99f1c46",
+				"layer": "Vec",
+				"x": 368,
+				"y": 320,
+				"width": 16,
+				"height": 16,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Vec",
+				"iid": "2e201d30-21a0-11f1-9bd3-6384c64710f2",
+				"layer": "Vec",
+				"x": 224,
+				"y": 560,
+				"width": 16,
+				"height": 16,
+				"color": 12470831,
+				"customFields" : {}
+			},
+			{
+				"id": "Vec",
+				"iid": "30c72150-21a0-11f1-9bd3-5328b716cf81",
+				"layer": "Vec",
+				"x": 656,
+				"y": 32,
+				"width": 16,
+				"height": 16,
+				"color": 12470831,
+				"customFields" : {}
+			}
+		],
+		"Sud": [
+			{
+				"id": "Vec2",
+				"iid": "f908e310-21a0-11f1-85eb-2f43f4fafbe5",
+				"layer": "Vec",
+				"x": 224,
+				"y": 304,
+				"width": 16,
+				"height": 16,
+				"color": 14120515,
+				"customFields" : {}
+			},
+			{
+				"id": "Vec2",
+				"iid": "faa729c0-21a0-11f1-85eb-75f72a414a8b",
+				"layer": "Vec",
+				"x": 288,
+				"y": 384,
+				"width": 16,
+				"height": 16,
+				"color": 14120515,
+				"customFields" : {}
+			},
+			{
+				"id": "Vec2",
+				"iid": "fbdd86e0-21a0-11f1-85eb-ed7e4f1d7f47",
+				"layer": "Vec",
+				"x": 576,
+				"y": 480,
+				"width": 16,
+				"height": 16,
+				"color": 14120515,
+				"customFields" : {}
+			},
+			{
+				"id": "Vec2",
+				"iid": "16cf1c20-21a0-11f1-85eb-ef693729951f",
+				"layer": "Vec",
+				"x": 320,
+				"y": 160,
+				"width": 16,
+				"height": 16,
+				"color": 14120515,
+				"customFields" : {}
+			},
+			{
+				"id": "Vec2",
+				"iid": "1c548810-21a0-11f1-85eb-0181d718c248",
+				"layer": "Vec",
+				"x": 392,
+				"y": 264,
+				"width": 16,
+				"height": 16,
+				"color": 14120515,
+				"customFields" : {}
+			}
+		]
+	}
+}
